@@ -32,3 +32,9 @@ div.mes {
   div.mes th {
     color: #999;
   }
+  
+  div.mes caption.titulo {
+    text-align: left;
+    font-size: 18px;
+    color: #c00;
+  }
